@@ -1,7 +1,6 @@
 #ifndef SPLIT_H
 #define SPLIT_H
 
-
 struct Node 
 {
   int value;
@@ -19,4 +18,6 @@ struct Node
 
 void split(Node*& in, Node*& odds, Node*& evens);
 // WRITE YOUR CODE HERE
+
+
 #endif
